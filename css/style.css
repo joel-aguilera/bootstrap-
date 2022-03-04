@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    height: 12vh;
+}
+header h1 {
+    color: white;
+}
+nav {
+    background-color: black;
+    height: 23vh;
+}
+
+main {
+    height: 110vh;
+    background-color: white;
+}
+main h2 {
+    margin-left: 100px;
+}
+.maps {
+    margin-top: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    height: 10vh;
+}
+footer p {
+    margin-top: 20px;
+    font-size: 19px;
+    color: white;
+}
